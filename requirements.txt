@@ -1,0 +1,14 @@
+streamlit 
+python-dotenv
+polars
+plotly
+scikit-learn
+xgboost
+sktime
+pydantic
+yfinance
+pymongo
+langchain
+langchain-mongodb
+langchain-community
+langchain-google-genai
