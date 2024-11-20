@@ -1,4 +1,4 @@
-streamlit 
+streamlit-ydata-profiling
 python-dotenv
 polars
 plotly
@@ -7,8 +7,8 @@ xgboost
 sktime
 pydantic
 yfinance
-pymongo
-langchain
-langchain-mongodb
-langchain-community
-langchain-google-genai
+# pymongo
+# langchain
+# langchain-mongodb
+# langchain-community
+# langchain-google-genai
